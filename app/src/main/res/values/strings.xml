@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application Pertemuan 7</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="dts_logo">dts_logo</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="nama_negara">Nama Negara</string>
+    <string name="logout">Logout</string>
+    <string name="string_logout">Logout</string>
+</resources>
